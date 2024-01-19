@@ -1,0 +1,31 @@
+/* #heading {
+    background-color: yellow;
+} */
+/* .myclass {
+    color: red;
+    background-color: yellow;
+}
+
+body {
+    background-color: rgb(250, 182, 193);
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+h1 {
+    visibility: hidden;
+} */
+
+/* for practice question 2 */
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
